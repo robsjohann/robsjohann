@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robson </h1>
-<h3 align="center">I'm a fullstack developer student from Brazil</h3>
+<h3 align="center">I'm a fullstack developepment student from Brazil</h3>
 
 - 🔭 I’m currently studying at Growdev's bootcamp named Starter - FullStack Developer - 9th Edition, but I have a bachelor's degree in civil engineering.
 
@@ -11,7 +11,7 @@
 
 - ⚡ What I like to do: **I love sports, specially football (#GoPackGo), soccer and basketball, love reading about economy and politics...and currently in love with coding**
 
-- I only have experience in civil engineering projects, but I'm changing my career to fullstack development.
+- I only have experience in civil engineering projects', but I'm changing my career to fullstack development.
 
 - I don't have a favorite language as I'm yet to learn a lot of them.
 
