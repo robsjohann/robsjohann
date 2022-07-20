@@ -39,15 +39,10 @@
   </a>   
 </p>
 
-## **GitHub Statistics**
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsjohanns&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=robsjohanns&show_icons=true&theme=dracula&line_height=27" alt="**Robson Johann** github stats"/>
-</a>
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=robsjohann&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsjohann&theme=react&layout=compact" />
+</p>
 
 
 
